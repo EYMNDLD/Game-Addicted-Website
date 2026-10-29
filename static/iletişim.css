@@ -1,0 +1,22 @@
+.iletişim_baslık{
+  color: rgb(33, 37, 41);
+  font-weight: bold;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  font-family: Google Sans;
+  text-align: center;
+  
+}
+
+p{
+  color: rgb(33, 37, 41);
+  font-weight: bold;
+  font-family: Google Sans;
+  line-height: 1.5;
+  text-align: center;
+  font-size: 30px;
+  padding-block-end: 25.5px;
+}
+
+
+

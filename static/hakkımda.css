@@ -1,0 +1,26 @@
+body{
+  background-color: rgb(253, 253, 253);
+}
+
+
+.Hakkımda{
+  padding: 20px;
+  font-family: Google Sans;
+  color: rgb(33, 37, 41);
+}
+
+
+.Hakkımda_başlık{
+  margin-top: 50px;
+  font-weight: bold;
+  font-size: 35px;
+}
+
+.hakkımda_yazısı{
+  font-size: 20px;
+  line-height: 2;
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 100px;
+
+}
